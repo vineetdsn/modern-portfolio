@@ -1,0 +1,20 @@
+import { randomUUID } from "crypto";
+
+export class MemStorage {
+  constructor() {
+    this.contactMessages = new Map();
+  }
+
+  async createContactMessage(message) {
+    const id = randomUUID();
+    const messageWithId = { ...message, id };
+    this.contactMessages.set(id, messageWithId);
+    return messageWithId;
+  }
+
+  async getContactMessages() {
+    return Array.from(this.contactMessages.values());
+  }
+}
+
+export const storage = new MemStorage();
