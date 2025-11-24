@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "title": "E-Commerce Platform",
+    "description": "A modern, fully responsive e-commerce website with shopping cart functionality, product filtering, and a seamless checkout experience. Built with React and styled with Tailwind CSS for optimal performance.",
+    "techStack": ["React", "Next.js", "Tailwind CSS", "JavaScript"],
+    "image": "/assets/images/E-commerce_project_mockup_bf0e8958.png",
+    "liveUrl": "https://example.com/ecommerce",
+    "codeUrl": "https://github.com/vineet/ecommerce"
+  },
+  {
+    "id": "2",
+    "title": "Task Management App",
+    "description": "An intuitive task management application featuring drag-and-drop kanban boards, real-time updates, and collaborative team features. Designed for productivity and ease of use.",
+    "techStack": ["React", "JavaScript", "CSS", "HTML"],
+    "image": "/assets/images/Task_manager_app_mockup_b8950993.png",
+    "liveUrl": "https://example.com/taskapp",
+    "codeUrl": "https://github.com/vineet/taskapp"
+  },
+  {
+    "id": "3",
+    "title": "Restaurant Website",
+    "description": "A beautiful, mobile-first restaurant website with online menu, reservation system, and gallery showcase. Features smooth animations and an elegant design that captures the dining experience.",
+    "techStack": ["Next.js", "React", "Tailwind CSS", "JavaScript"],
+    "image": "/assets/images/Restaurant_website_mockup_0cd96f1a.png",
+    "liveUrl": "https://example.com/restaurant",
+    "codeUrl": "https://github.com/vineet/restaurant"
+  }
+]
