@@ -5,7 +5,7 @@ import { Skills } from "@/components/Skills";
 import { Projects } from "@/components/Projects";
 import { Contact } from "@/components/Contact";
 import { Footer } from "@/components/Footer";
-
+// All the major files are here
 export default function Portfolio() {
   return (
     <div className="relative">
