@@ -11,6 +11,7 @@ const skills = [
   { name: "CSS", icon: SiCss3, color: "#1572B6", gradient: "from-[#1572B6]/20 to-[#1572B6]/5" },
   { name: "Tailwind CSS", icon: SiTailwindcss, color: "#06B6D4", gradient: "from-[#06B6D4]/20 to-[#06B6D4]/5" },
 ];
+// the skills
 
 export function Skills() {
   const ref = useRef(null);
@@ -28,6 +29,7 @@ export function Skills() {
           <h2 className="text-4xl md:text-5xl font-bold mb-4 font-heading text-foreground">
             Skills & Technologies
           </h2>
+          <h3>Head</h3>
           <div className="w-24 h-1 bg-gradient-to-r from-purple via-blue to-pink mx-auto rounded-full"></div>
         </motion.div>
 
