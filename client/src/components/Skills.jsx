@@ -29,7 +29,7 @@ export function Skills() {
           <h2 className="text-4xl md:text-5xl font-bold mb-4 font-heading text-foreground">
             Skills & Technologies
           </h2>
-          <h3>Head</h3>
+
           <div className="w-24 h-1 bg-gradient-to-r from-purple via-blue to-pink mx-auto rounded-full"></div>
         </motion.div>
 
