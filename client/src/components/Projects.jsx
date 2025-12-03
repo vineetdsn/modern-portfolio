@@ -15,6 +15,8 @@ export function Projects() {
     queryKey: ["/api/projects"],
   });
 
+  // This is 
+
   return (
     <section id="projects" className="py-20 bg-background" ref={ref}>
       <div className="container mx-auto px-6">
