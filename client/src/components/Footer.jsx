@@ -13,7 +13,8 @@ export function Footer() {
             <Heart className="w-4 h-4 text-pink fill-pink animate-pulse" />
           </p>
           <p className="text-sm text-muted-foreground" data-testid="text-copyright">
-            © {currentYear} Vineet. All rights reserved.
+            © {currentYear} Vineet. All rights reserved. and
+            
           </p>
         </div>
       </div>
