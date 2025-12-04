@@ -64,6 +64,7 @@ export function About() {
                 <div className="bg-gradient-to-br from-pink/20 to-orange/20 backdrop-blur-sm p-4 rounded-2xl border border-pink/30" data-testid="stat-projects">
                   <p className="text-3xl font-bold text-foreground font-heading">8+</p>
                   <p className="text-sm text-muted-foreground">Projects Completed</p>
+                  <p className="text-sm text-muted-foreground">Projects Completed</p>
                 </div>
               </div>
             </div>
