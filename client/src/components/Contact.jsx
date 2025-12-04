@@ -165,7 +165,7 @@ export function Contact() {
 
             <div className="mt-10 pt-10 border-t border-border/50">
               <p className="text-center text-muted-foreground mb-6 font-semibold">
-                Connect with me
+                Connect with me please
               </p>
               <div className="flex justify-center gap-4">
                 <Button
