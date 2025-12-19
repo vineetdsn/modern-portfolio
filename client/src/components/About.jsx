@@ -5,7 +5,7 @@ import { useRef } from "react";
 export function About() {
   const ref = useRef(null);
   const isInView = useInView(ref, { once: true, margin: "-100px" });
-
+// k
   return (
     <section id="about" className="py-20 bg-background" ref={ref}>
       <div className="container mx-auto px-6">
