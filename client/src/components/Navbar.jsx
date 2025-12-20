@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import { motion } from "framer-motion";
 import { Menu, X } from "lucide-react";
 import { Button } from "@/components/ui/button";
-
+// navbar
 const navItems = [
   { name: "Home", id: "home" },
   { name: "About", id: "about" },
