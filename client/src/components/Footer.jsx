@@ -14,7 +14,7 @@ export function Footer() {
           </p>
           <p className="text-sm text-muted-foreground" data-testid="text-copyright">
             © {currentYear} Vineet. All rights reserved. and
-            
+            {/* Icon */}
           </p>
         </div>
       </div>
