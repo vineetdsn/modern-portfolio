@@ -154,7 +154,6 @@ export function Contact() {
                       Sending...
                     </>
                   ) : (
-                    // Contact
                       <Send className="w-5 h-5 mr-2" />
                       Send Message
                     </>
