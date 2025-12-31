@@ -20,3 +20,4 @@ export default function Portfolio() {
     </div>
   );
 }
+// mobile
