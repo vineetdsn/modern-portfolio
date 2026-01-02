@@ -2,7 +2,7 @@ import { Heart } from "lucide-react";
 // footer 
 export function Footer() {
   const currentYear = new Date().getFullYear();
-
+// Normal addition
   return (
     <footer className="py-12 bg-gradient-to-b from-background to-muted/30 border-t border-border/50">
       <div className="container mx-auto px-6">
