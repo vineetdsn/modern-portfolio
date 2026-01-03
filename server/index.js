@@ -3,7 +3,7 @@ import { registerRoutes } from "./routes.js";
 import { setupVite, serveStatic, log } from "./vite.js";
 
 const app = express();
-// This is express
+// Extension
 app.use(express.json({
   verify: (req, _res, buf) => {
     req.rawBody = buf;
