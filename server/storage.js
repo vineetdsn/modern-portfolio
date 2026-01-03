@@ -4,7 +4,7 @@ export class MemStorage {
   constructor() {
     this.contactMessages = new Map();
   }
-// storage category
+// Extension
   async createContactMessage(message) {
     const id = randomUUID();
     const messageWithId = { ...message, id };
