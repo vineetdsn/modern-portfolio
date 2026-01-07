@@ -3,7 +3,6 @@ import { storage } from "./storage.js";
 import { contactFormSchema } from "../shared/schema.js";
 import fs from "fs/promises";
 import path from "path";
-// Extension
 
 export async function registerRoutes(app) {
   app.get("/api/projects", async (req, res) => {
