@@ -4,7 +4,7 @@ export class MemStorage {
   constructor() {
     this.contactMessages = new Map();
   }
-// 5 jan
+
   async createContactMessage(message) {
     const id = randomUUID();
     const messageWithId = { ...message, id };
