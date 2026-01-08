@@ -1,7 +1,7 @@
 import express from "express";
 import { registerRoutes } from "./routes.js";
 import { setupVite, serveStatic, log } from "./vite.js";
-
+// Index is updated
 const app = express();
 app.use(express.json({
   verify: (req, _res, buf) => {
