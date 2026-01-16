@@ -5,7 +5,7 @@ export function Hero() {
   const scrollToSection = (id: string) => {
     document.getElementById(id)?.scrollIntoView({ behavior: "smooth" });
   };
-// add
+
   return (
     <section 
       id="home" 
