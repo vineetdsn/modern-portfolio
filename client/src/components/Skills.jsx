@@ -60,4 +60,3 @@ export function Skills() {
     </section>
   );
 }
-// This is the comment
