@@ -100,4 +100,3 @@ export function Navbar() {
     </>
   );
 }
-// This is the comment
