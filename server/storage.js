@@ -18,4 +18,3 @@ creating async
 }
 
 export const storage = new MemStorage();
-// cornor
