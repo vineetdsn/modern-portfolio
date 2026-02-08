@@ -35,4 +35,3 @@ export async function registerRoutes(app) {
 
   return httpServer;
 }
-// cornor
