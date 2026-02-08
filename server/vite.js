@@ -24,7 +24,6 @@ export async function setupVite(app, server) {
     hmr: { server },
     allowedHosts: true,
   };
-// cornor
   const vite = await createViteServer({
     ...viteConfig,
     configFile: false,
