@@ -72,7 +72,7 @@ export function serveStatic(app) {
       `Could not find the build directory: ${distPath}, make sure to build the client first`,
     );
   }
-
+// code
   app.use(express.static(distPath));
 
   app.use("*", (_req, res) => {
