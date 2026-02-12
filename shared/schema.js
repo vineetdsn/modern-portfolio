@@ -15,3 +15,4 @@ export const contactFormSchema = z.object({
   email: z.string().email("Please enter a valid email address"),
   message: z.string().min(10, "Message must be at least 10 characters"),
 });
+// schema
