@@ -18,3 +18,4 @@ creating async
 }
 
 export const storage = new MemStorage();
+// Continue the line
