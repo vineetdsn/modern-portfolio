@@ -63,7 +63,7 @@ export async function setupVite(app, server) {
     }
   });
 }
-
+// Continue the line
 export function serveStatic(app) {
   const distPath = path.resolve(import.meta.dirname, "public");
 
