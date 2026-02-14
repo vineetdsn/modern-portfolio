@@ -34,7 +34,6 @@ app.use((req, res, next) => {
       log(logLine);
     }
   });
-// index
   next();
 });
 
