@@ -77,4 +77,3 @@ export function serveStatic(app) {
     res.sendFile(path.resolve(distPath, "index.html"));
   });
 }
-// commented
