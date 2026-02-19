@@ -77,3 +77,4 @@ export function serveStatic(app) {
     res.sendFile(path.resolve(distPath, "index.html"));
   });
 }
+It does look fun. What else happens in the show?
