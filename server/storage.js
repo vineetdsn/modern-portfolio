@@ -18,4 +18,3 @@ creating async
 }
 
 export const storage = new MemStorage();
-It does look fun. What else happens in the show?
