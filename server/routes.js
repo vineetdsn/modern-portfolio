@@ -35,4 +35,3 @@ export async function registerRoutes(app) {
 
   return httpServer;
 }
-It does look fun. What else happens in the show?
