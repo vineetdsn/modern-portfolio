@@ -36,7 +36,7 @@ app.use((req, res, next) => {
   });
   next();
 });
-
+// collapse
 (async () => {
   const server = await registerRoutes(app);
 
