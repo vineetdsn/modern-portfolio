@@ -72,4 +72,3 @@ export function About() {
     </section>
   );
 }
-// herb
