@@ -13,6 +13,8 @@ export function Hero() {
         background: "linear-gradient(135deg, #8338ec 0%, #3a86ff 50%, #ff006e 100%)"
       }}
     >
+      // about
+
       <div className="absolute inset-0 bg-black/10"></div>
       
       <div className="absolute inset-0 opacity-20">
