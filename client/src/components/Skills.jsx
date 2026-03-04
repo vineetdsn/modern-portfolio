@@ -60,4 +60,3 @@ export function Skills() {
     </section>
   );
 }
-// skills enhancement
