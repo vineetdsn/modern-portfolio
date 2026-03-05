@@ -20,4 +20,4 @@ export function Footer() {
     </footer>
   );
 }
-// about
+// Not accesible
