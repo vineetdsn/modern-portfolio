@@ -14,7 +14,7 @@ export function Hero() {
       }}
     >
       <div className="absolute inset-0 bg-black/10"></div>
-      
+      // another 
       <div className="absolute inset-0 opacity-20">
         <div className="absolute top-20 left-20 w-72 h-72 bg-yellow rounded-full blur-3xl animate-pulse"></div>
         <div className="absolute bottom-20 right-20 w-96 h-96 bg-orange rounded-full blur-3xl animate-pulse delay-1000"></div>
