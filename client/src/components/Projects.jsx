@@ -14,7 +14,7 @@ export function Projects() {
   const { data: projects, isLoading } = useQuery<Project[]>({
     queryKey: ["/api/projects"],
   });
-// Not accesible
+// Not // another 
   return (
     <section id="projects" className="py-20 bg-background" ref={ref}>
       <div className="container mx-auto px-6">
