@@ -34,6 +34,7 @@ export function About() {
                 className="relative rounded-3xl shadow-2xl w-full max-w-md object-cover"
                 data-testid="img-profile"
               />
+              {/* another div */}
             </div>
           </motion.div>
           <motion.div
