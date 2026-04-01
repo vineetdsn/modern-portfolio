@@ -96,4 +96,4 @@ export function Hero() {
     </section>
   );
 }
-// core
+// Checklist
