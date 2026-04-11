@@ -96,3 +96,4 @@ export function Hero() {
     </section>
   );
 }
+// hero section
